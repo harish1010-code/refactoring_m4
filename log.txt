@@ -1,10 +1,12 @@
-f21e6c6 completed task 2.3
-17862b8 completed task 2.2
-e1b03b5 completed task 2.1
-59fd87a completed task 1.2
-5212d92 completed task 1.2
-c8dd035 completed task 1.1
-8d89780 completed task 1.1
+ac47316 Completed task 2.4
+cf1de70 changed
+f21e6c6 task 2.3
+17862b8 task 2.2
+e1b03b5 task 2.1
+59fd87a task 1.2
+5212d92 task 1.2
+c8dd035 task 1.1
+8d89780 task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
